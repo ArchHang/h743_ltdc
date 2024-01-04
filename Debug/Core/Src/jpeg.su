@@ -1,0 +1,3 @@
+../Core/Src/jpeg.c:30:6:MX_JPEG_Init	8	static
+../Core/Src/jpeg.c:51:6:HAL_JPEG_MspInit	16	static
+../Core/Src/jpeg.c:71:6:HAL_JPEG_MspDeInit	0	static

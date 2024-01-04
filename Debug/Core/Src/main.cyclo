@@ -1,0 +1,8 @@
+../Core/Src/main.c:93:10:Get_TIM_CNT	1
+../Core/Src/main.c:99:9:SDRAM_Test	8
+../Core/Src/main.c:180:6:DMA2D_FillColor	2
+../Core/Src/main.c:205:6:DMA2D_FillFrame	4
+../Core/Src/main.c:360:6:SystemClock_Config	4
+../Core/Src/main.c:418:6:PeriphCommonClock_Config	2
+../Core/Src/main.c:249:5:main	11
+../Core/Src/main.c:503:6:Error_Handler	1
